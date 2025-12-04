@@ -29,13 +29,13 @@ I'm a passionate full‑stack developer and machine-learning enthusiast. I build
 * **truFinance** — Full-stack finance tracker with ML categorization & forecasting (backend, frontend, ML services)
 * **bhoko** — Full-stack food ordering app with Stripe payments (React/Express/Mongo)
 
-(See pinned projects below with links and quick highlights)
+(See pinned projects below)
 
 ### 📫 How to reach me
 
 * Portfolio / CV: [https://pratyushojha.com.np](https://pratyushojha.com.np)
-* Email: [pratyushojha059@gmail.com](mailto:pratyushojha059@gmail.com) (replace with your preferred contact)
-* LinkedIn: (add link)
+* Email: [pratyushojha059@gmail.com](mailto:pratyushojha059@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/pratyush-ojha-09a763226/](https://www.linkedin.com/in/pratyush-ojha-09a763226/)
 
 ---
 
